@@ -1,0 +1,11 @@
+C:\Users\flavi\source\repos\Exercício_S\obj\Debug\Exercício_S.csproj.AssemblyReference.cache
+C:\Users\flavi\source\repos\Exercício_S\obj\Debug\Exercício_S.Properties.Resources.resources
+C:\Users\flavi\source\repos\Exercício_S\obj\Debug\Exercício_S.csproj.GenerateResource.cache
+C:\Users\flavi\source\repos\Exercício_S\obj\Debug\Exercício_S.csproj.CoreCompileInputs.cache
+C:\Users\flavi\source\repos\Exercício_S\obj\Debug\Exercicio_S.Form1.resources
+C:\Users\flavi\source\repos\Exercício_S\bin\Debug\Exercício_S.exe.config
+C:\Users\flavi\source\repos\Exercício_S\bin\Debug\Exercício_S.exe
+C:\Users\flavi\source\repos\Exercício_S\bin\Debug\Exercício_S.pdb
+C:\Users\flavi\source\repos\Exercício_S\obj\Debug\Exercício_S.exe
+C:\Users\flavi\source\repos\Exercício_S\obj\Debug\Exercício_S.pdb
+C:\Users\flavi\source\repos\Exercício_S\obj\Debug\Exercício_S.FormT.resources
